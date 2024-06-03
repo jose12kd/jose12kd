@@ -12,6 +12,7 @@ joseaugustoemilio405@gmail.com
 
 @_jose.augusto06
 
-![](XfaqPLhttps://media1.tenor.com/m/fEnWIAAAAd/escorregando-yuri-alberto.gif)
+
+
 
 
