@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 🏆
 
-<!--
-**jose12kd/jose12kd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é jose 
 
-Here are some ideas to get you started:
+-estou estudando no alula(https://cursos.alura.com.br/dashboard)
+-estou me desenvolvendo na linguagem JavaScript
+-utilizo esse espaço para minha organização e compartilhamento dos meu projetosdesenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voçe entrar em contato comigo 📫
+
+joseaugustoemilio405@gmail.com
+
+@_jose.augusto06
+
+![](XfaqPLhttps://media1.tenor.com/m/fEnWIAAAAd/escorregando-yuri-alberto.gif)
+
+
